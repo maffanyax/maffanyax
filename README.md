@@ -1,1 +1,29 @@
-с
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Generate snake 3D
+        uses: Platane/snk@v3
+        with:
+          github_user_name: maffanyax
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake.svg?color_snake=00FFAB&color_dots=000000,00FFAB,00FFAB,00FFAB,00FFAB,00FFAB
+      
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "update snake animation"
