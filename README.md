@@ -1,21 +1,17 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=00FF00&center=true&vCenter=true&width=500&lines=maffanyax;Frontend+%7C+Full-Stack+Developer;JavaScript+%7C+C%2B%2B+%7C+Python" alt="Typing SVG" />
 </p>
-
 <p align="center">
   <a href="https://maffanyax.dev"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" /></a>
   <a href="https://discord.gg/maffanyax"><img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00FF00" /></a>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=maffanyax&label=visitors&color=00FF00&style=flat-square" />
   <img src="https://img.shields.io/github/followers/maffanyax?label=followers&style=flat-square&color=00FF00" />
   <img src="https://img.shields.io/github/stars/maffanyax?label=stars&style=flat-square&color=00FF00" />
 </p>
 
----
-
-
+bash
 $ whoami
 maffanyax — frontend & full-stack developer
 languages: javascript · c++ · python
