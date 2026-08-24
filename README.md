@@ -5,14 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/maffanyax">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=telegram&logoColor=white" />
+  <a href="https://maffanyax.dev">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://vk.com/maffanyax">
-    <img src="https://img.shields.io/badge/VK-000000?style=flat-square&logo=vk&logoColor=white" />
-  </a>
-  <a href="mailto:maffanyax@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
+  <a href="https://discord.gg/maffanyax">
+    <img src="https://img.shields.io/badge/Discord-000000?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
@@ -55,21 +52,33 @@
 
 ---
 
-## Projects
+## Achievements
 
 <p align="center">
-  <a href="https://github.com/maffanyax/project1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maffanyax&repo=project1&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-  </a>
-  <a href="https://github.com/maffanyax/project2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=maffanyax&repo=project2&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=maffanyax&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 </p>
 
 ---
 
+## 🎮 Игры в профиле
+
+### Змейка
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maffanyax&theme=darkhub&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maffanyax/maffanyax/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maffanyax/maffanyax/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/maffanyax/maffanyax/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### Пазл дня
+<p align="center">
+  <img src="https://github-readme-puzzle.vercel.app/api/puzzle?username=maffanyax&theme=dark" />
+</p>
+
+### Индикатор активности
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=maffanyax&cover_image=true&theme=default" />
 </p>
 
 ---
